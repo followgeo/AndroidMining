@@ -4,13 +4,10 @@
 		"name": "pool.verus.io",
         "url": "stratum+tcp://pool.verus.io:9998",
 		"timeout": 150
-	},
-	{
-		"name": "verus.farm (Quipacorn)",
-        "url": "stratum+tcp://verus.farm:9998",
-		"timeout": 60,
-		"time-limit": 600
-	}],
+	}
+	
+
+	],
 	
 	"user": "RKRiP59bf77v8o8HxhnRofgqZH88DyppeT.Donator##",
 	"algo": "verus",
